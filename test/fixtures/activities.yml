@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2015-01-27
+  type: 
+  recorded_by: MyString
+  equipment: MyString
+  weather: MyString
+  project_id: 
+
+two:
+  date: 2015-01-27
+  type: 
+  recorded_by: MyString
+  equipment: MyString
+  weather: MyString
+  project_id: 

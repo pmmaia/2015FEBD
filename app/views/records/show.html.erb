@@ -1,0 +1,12 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Record:</strong>
+  <%= @record.sampleid %> |
+  <%= @record.soil %> |
+  <%= @record.water %> |
+  <%= @record.finalvalue %>
+</p>
+
+<%= link_to 'Edit', edit_record_path(@record) %> |
+<%= link_to 'Back', records_path %>
